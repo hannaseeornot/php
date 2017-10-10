@@ -1,5 +1,5 @@
-# lesson-3 数组
+# lesson-4 loops
 
 
-### 主要讲解的内容是 下标数组和关联数组
+### 主要讲解的内容是 for while do...while foreach 循环
 
