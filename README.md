@@ -1,5 +1,5 @@
-# lesson-9 include
+# lesson-10 语法糖
 
 
-### 主要讲解的内容是 php加载文件
+### 主要讲解的内容是 HTML + PHP 嵌套语法糖
 
