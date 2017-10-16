@@ -1,4 +1,4 @@
-# lesson-10 语法糖
+# lesson-16 cookie
 
-### 主要讲解的内容是 HTML + PHP 嵌套语法糖
+### 主要讲解的内容是 cookie本地存储
 
