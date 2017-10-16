@@ -1,4 +1,6 @@
-# lesson-11 $_SERVER
+# lesson-11 filters / 过滤器
 
-### 主要讲解的内容是 $_SERVER[]:用于记录客户端&服务端的配置信息
+
+
+### 主要讲解的内容是 filters 中的一些常量
 
